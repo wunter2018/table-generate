@@ -1,0 +1,32 @@
+
+$theme-backgroudcolor: #409eff;
+$theme-color: #ffffff;
+
+$element-height: 50px;
+
+$layout-color: rgba(250, 245, 237, 0.466);
+$divider-color: #dcdfe6;
+$border-color: #999999;
+$outline-color: #dcdfe6;
+
+$object-color: #67c23a;
+$array-color: #f56c6c;
+$item-color: #999999;
+$item-hover-color: #409eff;
+$draggable-color: #f56c6c;
+
+$text-larger: 30px;
+$text-large: 26px;
+$text-big: 22px;
+$text-normal: 18px;
+$text-small: 14px;
+$text-mini: 10px;
+$text-semi: 6px;
+
+$color-black: #000000;
+$color-white: #ffffff;
+
+$table-border-color: rgba(20, 20, 20, 0.438);
+$cell-color: $color-white;
+
+@import "./handle";

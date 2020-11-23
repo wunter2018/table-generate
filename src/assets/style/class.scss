@@ -1,0 +1,121 @@
+@import "./variables.scss";
+
+.draggable-area .transition .item,
+.bind-area .draggable{
+  @include background_color("header-background-color");
+  @include font_color("header-background-color");
+  height: 2px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.divider-row {
+  height: 1px;
+  background: $divider-color;
+}
+
+.divider-column {
+  width: 11px;
+  position: relative;
+  background: $divider-color;
+}
+.divider-column::before{
+  content: "";
+  display: inline-block;
+  width: 5px;
+  height: 100%;
+  position: absolute ;
+  left:0px;
+  background: white;
+}
+.divider-column::after{
+  content: "";
+  display: inline-block;
+  width: 5px;
+  height: 100%;
+  position: absolute ;
+  right:0px;
+  background: white;
+}
+.property-item {
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+  .label {
+    font-size: $text-small;
+    margin-right: 10px;
+    width: 30%;
+  }
+  .content {
+    flex: 1;
+  }
+  .unit {
+    font-size: $text-small;
+    margin-left: 5px;
+  }
+}
+
+.bind-area {
+  width: 100%;
+  min-height: 80px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed $border-color;
+  color: $border-color;
+  border-radius: 4px;
+
+  .bind-notice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .bind-icon {
+      font-size: $text-large;
+    }
+    .bind-placeholder {
+      height: 2px;
+    }
+    .bind-text {
+      font-size: $text-mini;
+    }
+  }
+
+  .bind-key {
+    @include font_color("hover-color");
+    flex:1;
+    width: 98%;
+    position: relative;
+    margin: 1px;
+    border: 2px dotted;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .bind-tools{
+      position: absolute;
+      bottom: -2px;
+      right: -2px;
+      padding: 1px;
+      color: $color-white;
+    }
+  }
+  .bind-key:hover{
+    border: 2px solid;
+    .bind-tools{
+      @include background_color("hover-color");
+      cursor: pointer;
+    }
+  }
+}
+
+.preview-text {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

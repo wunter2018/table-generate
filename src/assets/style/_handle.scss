@@ -1,0 +1,40 @@
+@import "./themes";
+
+
+//用于获取HTML的data-theme值
+@mixin themeify {
+	@each $theme-name, $theme-map in $themes{
+		$theme-map: $theme-map !global;
+		[data-theme="#{$theme-name}"] & {
+			@content;
+		}
+	}
+}
+
+@function themed($key){
+	@return map-get($map: $theme-map, $key: $key)
+}
+
+@mixin background_color($color){
+	@include themeify{
+		background-color: themed($color) !important;
+	}
+}
+
+@mixin font_color($color){
+	@include themeify{
+		color: themed($color) !important;
+	}
+}
+
+@mixin hover_color($color){
+	@include themeify{
+		color: themed($color) !important;
+	}
+}
+
+@mixin border_color($color){
+	@include themeify{
+		border-color: themed($color) !important;
+	}
+}

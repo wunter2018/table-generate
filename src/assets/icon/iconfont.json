@@ -1,0 +1,373 @@
+{
+  "id": "2126690",
+  "name": "el-icon-form",
+  "font_family": "formIcon",
+  "css_prefix_text": "form-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11399159",
+      "name": "paste",
+      "font_class": "paste",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "2207655",
+      "name": "icon-picture",
+      "font_class": "picture",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "5524671",
+      "name": "theme",
+      "font_class": "theme1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7872838",
+      "name": "模式",
+      "font_class": "mode",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "12711585",
+      "name": "双模式切换",
+      "font_class": "shuangmoshiqiehuan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8924414",
+      "name": "bar-code",
+      "font_class": "barcode",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "14481973",
+      "name": "上传",
+      "font_class": "upload",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3934865",
+      "name": "穿梭框",
+      "font_class": "transfer",
+      "unicode": "e8f9",
+      "unicode_decimal": 59641
+    },
+    {
+      "icon_id": "4760247",
+      "name": "颜色选择",
+      "font_class": "color-picker",
+      "unicode": "e8eb",
+      "unicode_decimal": 59627
+    },
+    {
+      "icon_id": "12128868",
+      "name": "计数器",
+      "font_class": "input-number",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "12810575",
+      "name": "级联选择器",
+      "font_class": "cascader",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12316680",
+      "name": "时间选择器",
+      "font_class": "time-picker",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "1261813",
+      "name": "html5",
+      "font_class": "html5",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "16880963",
+      "name": "chart",
+      "font_class": "chart",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "16880965",
+      "name": "checkbox",
+      "font_class": "checkbox",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "16880966",
+      "name": "code",
+      "font_class": "code",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "16880972",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "16880984",
+      "name": "fullscreen",
+      "font_class": "fullscreen",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "16880988",
+      "name": "input",
+      "font_class": "input",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "16880989",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "16880993",
+      "name": "link",
+      "font_class": "link",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "16880997",
+      "name": "language",
+      "font_class": "language",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "16881012",
+      "name": "question",
+      "font_class": "question",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "16881013",
+      "name": "radio",
+      "font_class": "radio",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "16881014",
+      "name": "rate",
+      "font_class": "rate",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "16881015",
+      "name": "select",
+      "font_class": "select",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "16881016",
+      "name": "row",
+      "font_class": "row",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "16881020",
+      "name": "slider",
+      "font_class": "slider",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "16881021",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "16881022",
+      "name": "switch",
+      "font_class": "switch",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "16881023",
+      "name": "swagger",
+      "font_class": "swagger",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "16881024",
+      "name": "textarea",
+      "font_class": "textarea",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "16881025",
+      "name": "star",
+      "font_class": "star",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "16881026",
+      "name": "theme",
+      "font_class": "theme",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "16881027",
+      "name": "tab",
+      "font_class": "tab",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "16881028",
+      "name": "table",
+      "font_class": "table",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "16881037",
+      "name": "tree",
+      "font_class": "tree",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "16881040",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "17698614",
+      "name": "合并单元格",
+      "font_class": "mergeRow",
+      "unicode": "e8fa",
+      "unicode_decimal": 59642
+    },
+    {
+      "icon_id": "1788952",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "1789257",
+      "name": "表格",
+      "font_class": "biaoge",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "1789990",
+      "name": "右对齐",
+      "font_class": "youduiqi",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "1789991",
+      "name": "居中",
+      "font_class": "juzhong",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "1789992",
+      "name": "左对齐",
+      "font_class": "zuoduiqi",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "1790008",
+      "name": "删格布局",
+      "font_class": "shangebuju",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "10866284",
+      "name": "合并单元格",
+      "font_class": "mergeColumn",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "10868107",
+      "name": "插入行",
+      "font_class": "charuhang",
+      "unicode": "e8a2",
+      "unicode_decimal": 59554
+    },
+    {
+      "icon_id": "10868151",
+      "name": "删除行",
+      "font_class": "shanchuhang",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "10868232",
+      "name": "插入列",
+      "font_class": "charulie",
+      "unicode": "e8a4",
+      "unicode_decimal": 59556
+    },
+    {
+      "icon_id": "10868263",
+      "name": "删除列",
+      "font_class": "shanchulie",
+      "unicode": "e8a5",
+      "unicode_decimal": 59557
+    },
+    {
+      "icon_id": "13015642",
+      "name": "29-插入列",
+      "font_class": "-charulie",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "13015644",
+      "name": "28-插入行",
+      "font_class": "-charuhang",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+$element-blue: #409eff;
+$orange-red: #FF4500;
+$sea-green: #2e8b57;
+$dark-magenta: 	#8B008B;
+$crimson: #DC143C;
+
+$themes: (
+	element-blue: (
+		// 背景
+		header-background-color: $element-blue,
+		selector-background-color: #ffffff,
+		workspace-background-color: rgb(250, 250, 250),
+		layout-background-color: #ffffff,
+		nav-background-color: #ffffff,
+		property-background-color: #ffffff,
+		footer-background-color: rgb(250, 250, 250),
+		// 字体
+		header-color: #ffffff,
+		selector-color: black,
+		layout-color: black,
+		nav-color: $element-blue,
+		property-color: black,
+		footer-color: $element-blue,
+		//悬浮 hover
+		hover-color: $element-blue,
+		//边框
+		border-color: $element-blue,
+		table-border-color: $element-blue,
+		table-content-color:rgb(250, 245, 237),
+		td-border-color: rgb(255, 0, 0),
+	),
+	orange-red: (
+		// 背景
+		header-background-color: $orange-red,
+		selector-background-color: #ffffff,
+		workspace-background-color: rgb(250, 250, 250),
+		layout-background-color: #ffffff,
+		nav-background-color: #ffffff,
+		property-background-color: #ffffff,
+		footer-background-color: rgb(250, 250, 250),
+		// 字体
+		header-color: #ffffff,
+		selector-color: black,
+		layout-color: black,
+		nav-color: $orange-red,
+		property-color: black,
+		footer-color: $orange-red,
+		//悬浮 hover
+		hover-color: $orange-red,
+		//边框
+		border-color: $orange-red,
+		table-border-color: $orange-red,
+		table-content-color:rgb(250, 245, 237),
+		td-border-color: orange,
+	),
+	sea-green: (
+		// 背景
+		header-background-color: $sea-green,
+		selector-background-color: #ffffff,
+		workspace-background-color: rgb(250, 250, 250),
+		layout-background-color: #ffffff,
+		nav-background-color: #ffffff,
+		property-background-color: #ffffff,
+		footer-background-color: rgb(250, 245, 237),
+		// 字体
+		header-color: #ffffff,
+		selector-color: black,
+		layout-color: black,
+		nav-color: $sea-green,
+		property-color: black,
+		footer-color: $sea-green,
+		//悬浮 hover
+		hover-color: $sea-green,
+		//边框
+		border-color: $sea-green,
+		table-border-color: $sea-green,
+		table-content-color:rgb(250, 245, 237),
+		td-border-color: $sea-green,
+	),
+	crimson: (
+		// 背景
+		header-background-color: $crimson,
+		selector-background-color: #ffffff,
+		workspace-background-color: rgb(250, 250, 250),
+		layout-background-color: #ffffff,
+		nav-background-color: #ffffff,
+		property-background-color: #ffffff,
+		footer-background-color: rgb(250, 245, 237),
+		// 字体
+		header-color: #ffffff,
+		selector-color: black,
+		layout-color: black,
+		nav-color: $crimson,
+		property-color: black,
+		footer-color: $crimson,
+		//悬浮 hover
+		hover-color: $crimson,
+		//边框
+		border-color: $crimson,
+		table-border-color: $crimson,
+		table-content-color:rgb(250, 245, 237),
+		td-border-color: $crimson,
+	),
+	dark-magenta: (
+		// 背景
+		header-background-color: $dark-magenta,
+		selector-background-color: #ffffff,
+		workspace-background-color: rgb(250, 250, 250),
+		layout-background-color: #ffffff,
+		nav-background-color: #ffffff,
+		property-background-color: #ffffff,
+		footer-background-color: rgb(250, 245, 237),
+		// 字体
+		header-color: #ffffff,
+		selector-color: black,
+		layout-color: black,
+		nav-color: $dark-magenta,
+		property-color: black,
+		footer-color: $dark-magenta,
+		//悬浮 hover
+		hover-color: $dark-magenta,
+		//边框
+		border-color: $dark-magenta,
+		table-border-color: $dark-magenta,
+		table-content-color:rgb(250, 245, 237),
+		td-border-color: $dark-magenta,
+	),
+	dark: (
+		// 背景
+		header-background-color: #0f1011,
+		selector-background-color: #162a3d,
+		workspace-background-color: #162a3d,
+		layout-background-color: #0f1011,
+		nav-background-color: #162a3d,
+		property-background-color: #162a3d,
+		footer-background-color: #0f1011,
+		// 字体
+		header-color: #ffffff,
+		selector-color: #ffffff,
+		layout-color: #ffffff,
+		nav-color: #ffffff,
+		property-color: #ffffff,
+		footer-color: #ffffff,
+		//悬浮 hover
+		hover-color: #0f1011,
+		//边框
+		border-color: #0f1011,
+		table-border-color: rgb(247, 166, 17),
+		table-content-color:rgb(250, 245, 237),
+		td-border-color: rgb(255, 0, 0),
+	),
+);
