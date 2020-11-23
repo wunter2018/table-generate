@@ -1,4 +1,4 @@
-# easy-form-generate
+# table-generate
 
 > A Vue.js + elementui project
 
