@@ -6,4 +6,4 @@
 ![效果1](./result/form-generate-001.gif)
 ![效果2](./result/form-generate-002.gif)
 
-> 这个项目需要重构
+> 如果有时间，需要重构这个项目
