@@ -1,30 +1,7 @@
-# generate-form
+# easy-form-generate
 
-> A Vue.js project
+> A Vue.js + elementui project
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+效果：
+![效果1](https://wunter.oss-cn-shanghai.aliyuncs.com/%E5%AE%9E%E7%8E%B0%E6%95%88%E6%9E%9C/form-generate-001.gif)
+![效果2](https://wunter.oss-cn-shanghai.aliyuncs.com/%E5%AE%9E%E7%8E%B0%E6%95%88%E6%9E%9C/form-generate-002.gif)
